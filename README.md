@@ -33,7 +33,6 @@ I'm a **Fullstack Web Developer** and **Designer** with experience in building s
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rodrigo-alves-webdev/) or [email](mailto:rodrigozanldev.com) for freelance or job opportunities.
 
 🔗 **Find my work**:
-- Portfolio: [link to your portfolio website]
-- GitHub Repositories: [Your GitHub Projects](https://github.com/rodrigozandev)
+- GitHub Repositories: [GitHub Projects](https://github.com/rodrigo-alves-webdev)
 
 Thanks for stopping by!
